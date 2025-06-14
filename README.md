@@ -12,6 +12,7 @@ This repository contains the official logo files for the BABEDINO token project.
 ## 🖼️ Preview
 
 ### 🔹 BscScan Logo
+![BABEDINO Logo](https://raw.githubusercontent.com/babedino/logos/main/logo.png)
 <img src="./logo.svg" alt="BABEDINO 32px Logo" width="32" height="32"/>
 
 ### 🔹 CoinGecko / CMC Logo

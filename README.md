@@ -5,9 +5,11 @@ This repository contains the official logo files for the BABEDINO token project.
 
 ## 📁 Files
 
-- [📄 logo.svg (32×32 for BscScan)](./logo.svg)
+- [📄 logo.svg (32×32 SVG for BscScan)](./logo.svg)
+- [🖼️ logo.png (32×32 PNG for BscScan)](./logo.png)
 - [🖼️ baby_dino_logo_256.png (256×256 for CoinGecko/CMC)](./baby_dino_logo_256.png)
 - [🖼️ baby_dino_logo_512.png (512×512 high-res)](./baby_dino_logo_512.png)
+
 
 ## 🖼️ Preview
 
